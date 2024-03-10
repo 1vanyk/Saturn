@@ -1,0 +1,111 @@
+body{
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: #eef0f2;
+  color: #f4fff8;
+}
+h1 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  text-align: center;
+  font-size: 60px;
+  padding-top: 20px;
+  color: #000d1a;
+}
+h1::first-letter {
+  color: #162794;
+}
+.oo {
+  margin-top: 20px;
+  border-bottom: 3px solid #000d1a;
+}
+ nav a{
+ text-decoration: none;
+ color: #000d1a;
+ background-color: rgb(206, 206, 206);
+ border-radius: 10vh;
+ font-size: 20px;
+ padding: 5px;
+ margin: 30px;
+ filter: drop-shadow(3px 3px 3px #949ba1);
+}
+nav a:hover{
+  background-color: white;
+}
+.i {
+  text-align: center;
+}
+p {
+  text-align: center;
+  border-radius: 15px;
+  background: rgba(63, 91, 212,0.7);
+  padding: 10px;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: justify;
+}
+.st {
+  filter: drop-shadow(15px 5px 5px rgb(0, 0, 0));
+}
+ a {
+   color: #f4fff8;
+ }
+ .saturn {
+    background-image: url(https://focus.ua/static/storage/thumbs/920x465/9/fe/ab5f799a-76ca4e9e9a2974755798c79e688a0fe9.jpg?v=1139_1);
+    height: 300px;
+    background-position: center;
+    background-repeat:initial;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 60px;
+    align-items: center;
+    position: relative;
+}
+.saturn .m {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
+.saturn h2 {
+    z-index: 3;
+}
+h2 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  text-align: center;
+}
+h3 {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  text-align: center;
+  color: #000d1a;
+  font-size: 65px;
+}
+.gg {
+  width: 150px;
+  border-radius: 20px;
+}
+.t p {
+  text-align: center;
+}
+b {
+  color: #000d1a;
+}
+.image-container {
+    max-height: 500px; 
+    overflow-y: auto;
+}
+footer {
+  background-color: #13293d;
+}
+footer p {
+  background-color:  #13293d;
+}
