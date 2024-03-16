@@ -9,6 +9,10 @@ body{
   background-color: #eef0f2;
   color: #f4fff8;
 }
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 h1 {
   font-family: "Russo One", sans-serif;
   font-weight: 400;
