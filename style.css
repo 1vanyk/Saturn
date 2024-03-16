@@ -60,7 +60,7 @@ p {
     background-image: url(https://focus.ua/static/storage/thumbs/920x465/9/fe/ab5f799a-76ca4e9e9a2974755798c79e688a0fe9.jpg?v=1139_1);
     height: 300px;
     background-position: center;
-    background-repeat:initial;
+    background-repeat: repeat-y;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
