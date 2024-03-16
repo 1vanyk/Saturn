@@ -36,7 +36,7 @@ h1::first-letter {
  border-radius: 10vh;
  font-size: 20px;
  padding: 5px;
- margin: 45px;
+ margin: 60px;
  filter: drop-shadow(3px 3px 3px #949ba1);
 }
 nav a:hover{
